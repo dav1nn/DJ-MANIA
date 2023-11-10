@@ -42,8 +42,5 @@ Myself and Oran both like the idea we've come up with. It's a fun assignment and
 # What I learned
 
 
-# Proposal submitted earlier can go here:
 
-
-## This is how to markdown text:
 
