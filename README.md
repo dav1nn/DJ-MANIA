@@ -1,12 +1,12 @@
 # DJ MANIA
 
 Name: 
-Davin Ayyubov
-Oran Sargesson
+Davin Ayyubov  (1)
+Oran Sargesson  (2)
 
 Student Number: 
-C21791061
-C21506079 
+C21791061    (1)
+C21506079    (2)   
 
 Class Group:
 TU984
@@ -23,6 +23,7 @@ Step into the electrifying world of "DJ MANIA," a first-person DJ simulation tha
 
 
 # How it works
+Player controls a Dj in diffrent nightclubs being able to move around and interact with diffrent objects that effect the environment. These objects include being able to control the level of music and being able to actually DJ yourself, player can also control the lights and how they interact with the  environment, while also being switched at diffrent points to diffrent nightclubs and environments around the world 
 
 # List of classes/assets in the project
 
