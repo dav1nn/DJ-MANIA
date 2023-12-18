@@ -23,10 +23,9 @@ public class PlaneSplitter : MonoBehaviour
             {
                 
                 Vector3 position = startPosition + new Vector3(x * squareSize, 0, z * squareSize);
-
-                
                 GameObject newSquare = Instantiate(squarePrefab, position, Quaternion.identity);
                 newSquare.transform.SetParent(this.transform);
+                
             }
         }
     }
