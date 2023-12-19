@@ -28,38 +28,44 @@ public class SquareFlasher : MonoBehaviour
 
     void Update()
     {
-      if (sharedAudioSource != null && sharedAudioSource.isPlaying)
+
+        if (sharedAudioSource != null && sharedAudioSource.volume == 0)
         {
-          AnalyzeMusic();
+            squareRenderer.material.color = Color.black;
+            return;
+        }
+
+        if (sharedAudioSource != null && sharedAudioSource.isPlaying)
+        {
+            AnalyzeMusic();
             colorChangeTimer -= Time.deltaTime;
 
-            
- if (!colorSetChanged && colorChangeTimer <= 0)
-         {
+            if (!colorSetChanged && colorChangeTimer <= 0)
+            {
                 colorSetChanged = true;
-         }
+            }
 
-        timer -= Time.deltaTime;
+            timer -= Time.deltaTime;
 
             if (timer <= 0)
             {
                 timer = currentFlashDuration;
 
                 if (IsBeatDetected())
-              {
-                 ChangeColor();
-                 AdjustFlashDuration();
-              }
-         }
-         }
+                {
+                    ChangeColor();
+                    AdjustFlashDuration();
+                }
+            }
         }
+    }
 
     void AnalyzeMusic()
     {
         sharedAudioSource.GetSpectrumData(spectrumData, 0, FFTWindow.BlackmanHarris);
     }
 
-      bool IsBeatDetected()
+    bool IsBeatDetected()
     {
         float sumLowFreq = 0.0f;
         for (int i = 0; i < 20; i++)
@@ -71,9 +77,9 @@ public class SquareFlasher : MonoBehaviour
 
     void ChangeColor()
     {
-     Color[] currentColors = colorSetChanged ? changedColors : initialColors;
-     Color randomColor = currentColors[Random.Range(0, currentColors.Length)];
-     squareRenderer.material.color = randomColor;
+        Color[] currentColors = colorSetChanged ? changedColors : initialColors;
+        Color randomColor = currentColors[Random.Range(0, currentColors.Length)];
+        squareRenderer.material.color = randomColor;
     }
 
     void AdjustFlashDuration()
@@ -98,6 +104,3 @@ public class SquareFlasher : MonoBehaviour
         sharedAudioSource = source;
     }
 }
-
-
-

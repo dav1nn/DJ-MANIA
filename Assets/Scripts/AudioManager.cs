@@ -11,7 +11,6 @@ public class AudioManager : MonoBehaviour
         SquareFlasher.SetSharedAudioSource(backgroundMusic);
     }
 
-    // Method to be called by the UI slider
     public void SetVolume(float volume)
     {
         backgroundMusic.volume = volume;
