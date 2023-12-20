@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=F-CkNETD3io
 
 
 # Description of the project
-Step into the electrifying world of "DJ MANIA," a first-person DJ simulation that transports you to the heart of the most pulsating nightclubs around the globe. In this immersive experience, you're not just playing music; you're orchestrating an unforgettable night.
+Step into the electrifying world of "DJ MANIA," a first-person DJ simulation that transports you to the heart of the most pulsating nightclub around the globe. In this immersive experience, you're not just playing music, you're orchestrating an unforgettable night.
 
 # Instructions for use
 * LEFT THUMBSTICK    -  MOVE CHARACTER
