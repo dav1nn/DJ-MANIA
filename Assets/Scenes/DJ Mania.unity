@@ -9208,7 +9208,7 @@ Transform:
   m_GameObject: {fileID: 1137712122}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0.06, z: 0}
   m_LocalScale: {x: 0.23225959, y: 0.23225959, z: 0.23225959}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -9228,7 +9228,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   visualTarget: {fileID: 493986241}
   localAxis: {x: 0, y: -1, z: 0}
-  resetSpeed: 5
+  resetSpeed: 1
   followAngleThreshold: 45
 --- !u!114 &1137712125
 MonoBehaviour:
