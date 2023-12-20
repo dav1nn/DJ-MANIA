@@ -46,6 +46,8 @@ Player controls a Dj in a nightclub being able to move around and interact with 
 * https://www.youtube.com/watch?v=HhtTtvBF5bI&list=PLpEoiloH-4eP-OKItF8XNJ8y8e1asOJud
 * https://docs.unity3d.com/530/Documentation/ScriptReference/AudioSource.GetSpectrumData.html
 
+![An image](https://imgur.com/5b6FzwV)
+
 # What we are most proud of in the assignment
 Myself and Oran both like the idea we've come up with. It's a fun assignment and the brief we we're given aligns with what we enjoy creating in Unity. I am most proud of our synergy in this project and I feel like myself and Oran can achieve a lot by the time its due.
 
