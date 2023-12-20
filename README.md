@@ -14,6 +14,9 @@ TU984
 Video:
 https://www.youtube.com/watch?v=F-CkNETD3io
 
+Itch.io:
+https://dav1n.itch.io/dj-mania
+
 ![Game Engines 1 2023 0-47 screenshot](https://github.com/dav1nn/DJ-MANIA/assets/75795249/2464da71-4b66-4f31-9bb1-7c7cdd8a62d8)
 
 # Description of the project
