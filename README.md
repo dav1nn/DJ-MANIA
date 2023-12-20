@@ -45,7 +45,7 @@ Myself and Oran both like the idea we've come up with. It's a fun assignment and
 
 Youtube video:
 
-[![YouTube](https://www.youtube.com/watch?v=F-CkNETD3io)
+[![YouTube](https://www.webwise.ie/wp-content/uploads/2015/10/youtube.png)](https://www.youtube.com/watch?v=F-CkNETD3io)
 
 
 
