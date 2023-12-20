@@ -28202,7 +28202,7 @@ GameObject:
   - component: {fileID: 1755358578}
   - component: {fileID: 1755358584}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28459,7 +28459,7 @@ SphereCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1755358577}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3d086339153b9da4598e1c070da43663, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
