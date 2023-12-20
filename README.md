@@ -12,7 +12,7 @@ Class Group:
 TU984
 
 Video:
-N/A
+https://www.youtube.com/watch?v=F-CkNETD3io
 
 
 
