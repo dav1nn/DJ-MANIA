@@ -20,11 +20,11 @@ https://www.youtube.com/watch?v=F-CkNETD3io
 Step into the electrifying world of "DJ MANIA," a first-person DJ simulation that transports you to the heart of the most pulsating nightclubs around the globe. In this immersive experience, you're not just playing music; you're orchestrating an unforgettable night.
 
 # Instructions for use
-LEFT THUMBSTICK    -  MOVE CHARACTER
-RIGHT THUMBSTICK   -  LOOK LEFT/RIGHT
-RIGHT GRIP         -  INTERACT WITH OBJECTS
-LEFT GRIP          -  INTERACT WITH OBJECTS
-RIGHT PINCH        -  INTERACT WITH VOLUME SLIDER
+* LEFT THUMBSTICK    -  MOVE CHARACTER
+* RIGHT THUMBSTICK   -  LOOK LEFT/RIGHT
+* RIGHT GRIP         -  INTERACT WITH OBJECTS
+* LEFT GRIP          -  INTERACT WITH OBJECTS
+* RIGHT PINCH        -  INTERACT WITH VOLUME SLIDER
 
 
 # How it works
