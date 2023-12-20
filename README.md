@@ -28,19 +28,23 @@ Step into the electrifying world of "DJ MANIA," a first-person DJ simulation tha
 
 
 # How it works
-Player controls a Dj in diffrent nightclubs being able to move around and interact with diffrent objects that effect the environment. These objects include being able to control the level of music and being able to actually DJ yourself, player can also control the lights and how they interact with the  environment, while also being switched at diffrent points to diffrent nightclubs and environments around the world 
+Player controls a Dj in a nightclub being able to move around and interact with diffrent objects that effect the environment. These objects include being able to control the level of music and being able to actually DJ yourself, player can also control the lights and how they interact with the  environment.
 
 # List of classes/assets in the project
 
 | Class/asset | Source |
 |-----------|-----------|
-| N/A | N/A |
-| N/A | N/A |
-| N/A | N/A |
+| SquareFlasher.cs |Self written|
+| AudioManager.cs| Self written|
+| FlashingLight.cs | Self written |
+| PlaneSplitter.cs | Self written |
+| WallSoundVisualizer.cs | Self written |
+| AnimateHandOnInput.cs | Self written |
 
 # References
-* Item 1
-* Item 2
+* https://www.youtube.com/watch?v=pmRwhE2hQ9g
+* https://www.youtube.com/watch?v=HhtTtvBF5bI&list=PLpEoiloH-4eP-OKItF8XNJ8y8e1asOJud
+* https://docs.unity3d.com/530/Documentation/ScriptReference/AudioSource.GetSpectrumData.html
 
 # What we are most proud of in the assignment
 Myself and Oran both like the idea we've come up with. It's a fun assignment and the brief we we're given aligns with what we enjoy creating in Unity. I am most proud of our synergy in this project and I feel like myself and Oran can achieve a lot by the time its due.
