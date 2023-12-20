@@ -1,15 +1,17 @@
 using UnityEngine;
-using System.Collections.Generic; // Import for using List
+using System.Collections.Generic;
 using UnityEngine.XR.Interaction.Toolkit;
 
 public class HandButton : XRBaseInteractable
 {
-    public List<ParticleSystem> controlledParticleSystems; // List of particle systems
+    public List<ParticleSystem> controlledParticleSystems; 
+    public AudioSource audioSource; 
 
     protected override void OnSelectEntered(SelectEnterEventArgs args)
     {
         base.OnSelectEntered(args);
         ToggleParticleSystems();
+        PlayAudioClip();
     }
 
     private void ToggleParticleSystems()
@@ -23,6 +25,14 @@ public class HandButton : XRBaseInteractable
                 else
                     ps.Play();
             }
+        }
+    }
+
+    private void PlayAudioClip()
+    {
+        if (audioSource != null && audioSource.clip != null)
+        {
+            audioSource.Play();
         }
     }
 }
