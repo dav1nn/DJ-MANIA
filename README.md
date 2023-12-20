@@ -14,7 +14,7 @@ TU984
 Video:
 https://www.youtube.com/watch?v=F-CkNETD3io
 
-
+![Game Engines 1 2023 0-47 screenshot](https://github.com/dav1nn/DJ-MANIA/assets/75795249/2464da71-4b66-4f31-9bb1-7c7cdd8a62d8)
 
 # Description of the project
 Step into the electrifying world of "DJ MANIA," a first-person DJ simulation that transports you to the heart of the most pulsating nightclub around the globe. In this immersive experience, you're not just playing music, you're orchestrating an unforgettable night.
